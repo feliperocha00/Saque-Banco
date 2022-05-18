@@ -1,0 +1,23 @@
+C:\Users\PC\Desktop\Work\Dev\Projetos\H- SaqueAula0104\saque1\Problema saque\obj\Debug\Problema saque.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Work\Dev\Projetos\H- SaqueAula0104\saque1\Problema saque\obj\Debug\Problema saque.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Work\Dev\Projetos\H- SaqueAula0104\saque1\Problema saque\obj\Debug\Problema saque.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Work\Dev\Projetos\H- SaqueAula0104\saque1\Problema saque\bin\Debug\Problema saque.exe.config
+C:\Users\PC\Desktop\Work\Dev\Projetos\H- SaqueAula0104\saque1\Problema saque\bin\Debug\Problema saque.exe
+C:\Users\PC\Desktop\Work\Dev\Projetos\H- SaqueAula0104\saque1\Problema saque\bin\Debug\Problema saque.pdb
+C:\Users\PC\Desktop\Work\Dev\Projetos\H- SaqueAula0104\saque1\Problema saque\obj\Debug\Problema saque.exe
+C:\Users\PC\Desktop\Work\Dev\Projetos\H- SaqueAula0104\saque1\Problema saque\obj\Debug\Problema saque.pdb
+C:\Users\PC\Desktop\Work\Faculdade\Atividades\B - SaqueAula0104\saque1\Problema saque\obj\Debug\Problema saque.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Work\Faculdade\Atividades\B - SaqueAula0104\saque1\Problema saque\obj\Debug\Problema saque.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Desktop\Work\Faculdade\Atividades\B - SaqueAula0104\saque1\Problema saque\obj\Debug\Problema saque.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Work\Faculdade\Atividades\B - SaqueAula0104\saque1\Problema saque\obj\Debug\Problema saque.exe
+C:\Users\PC\Desktop\Work\Faculdade\Atividades\B - SaqueAula0104\saque1\Problema saque\obj\Debug\Problema saque.pdb
+C:\Users\PC\Desktop\Work\Faculdade\Atividades\B - SaqueAula0104\saque1\Problema saque\bin\Debug\Problema saque.exe.config
+C:\Users\PC\Desktop\Work\Faculdade\Atividades\B - SaqueAula0104\saque1\Problema saque\bin\Debug\Problema saque.exe
+C:\Users\PC\Desktop\Work\Faculdade\Atividades\B - SaqueAula0104\saque1\Problema saque\bin\Debug\Problema saque.pdb
+C:\Users\flavi\OneDrive\Área de Trabalho\saque1\Problema saque\bin\Debug\Problema saque.exe.config
+C:\Users\flavi\OneDrive\Área de Trabalho\saque1\Problema saque\bin\Debug\Problema saque.exe
+C:\Users\flavi\OneDrive\Área de Trabalho\saque1\Problema saque\bin\Debug\Problema saque.pdb
+C:\Users\flavi\OneDrive\Área de Trabalho\saque1\Problema saque\obj\Debug\Problema saque.csproj.AssemblyReference.cache
+C:\Users\flavi\OneDrive\Área de Trabalho\saque1\Problema saque\obj\Debug\Problema saque.csproj.CoreCompileInputs.cache
+C:\Users\flavi\OneDrive\Área de Trabalho\saque1\Problema saque\obj\Debug\Problema saque.exe
+C:\Users\flavi\OneDrive\Área de Trabalho\saque1\Problema saque\obj\Debug\Problema saque.pdb

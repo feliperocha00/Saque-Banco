@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problema saque", "Problema saque\Problema saque.csproj", "{E381E56D-0F70-43A6-9639-D93E5F59851E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E381E56D-0F70-43A6-9639-D93E5F59851E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E381E56D-0F70-43A6-9639-D93E5F59851E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E381E56D-0F70-43A6-9639-D93E5F59851E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E381E56D-0F70-43A6-9639-D93E5F59851E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB570B43-B687-4F1A-BB31-4E5EB58F52FF}
+	EndGlobalSection
+EndGlobal
